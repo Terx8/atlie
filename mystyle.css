@@ -1,0 +1,79 @@
+html, body {
+height:800px;
+margin:0;
+padding:0;
+background-color:#fff0f5;
+ font-size: 20px;
+}
+.h1left {
+	
+	width:50%;
+	text-align: left;
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.h1right {
+width:50%;
+	text-align: right;
+    font-size: 4em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+button {
+	background-color:#eebef1;
+	font-size: 1em;
+	font-weight: bold;
+	text-transform: uppercase;
+	width:100%; 
+	height:40px;
+}
+
+.topper{
+	height: 10%;
+
+	background-color:#eebef1;
+}
+
+
+.whole{
+	
+	display: flex;
+}
+
+
+.navigation{
+	padding-right: 1%; 
+	padding-left: 1%; 
+	
+	width: 15%;
+
+	background-color:#f9e8fa;
+
+}
+	
+	
+.nav_slot{
+	height: 200px;
+	margin-top: 2%; 
+	background-color:#eebef1;
+}
+
+.nav_search{
+	height: 800px;
+	margin: 1%; 
+	background-color:#f9e8fa;
+}	
+.main{
+	width: 85%;
+
+}	
+
+.pretty_form{
+	 width: 30%; 
+	 margin: auto;
+	
+}
